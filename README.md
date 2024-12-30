@@ -1,5 +1,5 @@
 # MechanoGEPred
-This repository contains a trained machine learning model that predicts the elastic modulus of cells based on mechanosensitive genes expression. The model was trained using gradient boosting algorithm and is stored in a joblib format for easy deployment.
+This repository contains a computational model that predicts the elastic modulus of cells based on mechanosensitive genes expression. The model was trained using gradient boosting algorithm and is stored in a joblib format for easy deployment.
 
 ## Dependencies
 To run the model, you need to install Python 3.11.10 and the following libraries:
