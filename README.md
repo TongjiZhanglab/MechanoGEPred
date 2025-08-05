@@ -59,6 +59,7 @@ print(f"Predicted modulus values: {predictions}")
 ```
 
 3. Explore the Tutorial
-For comprehensive guidance, open and run the Jupyter notebook: `notebook/tutorial.ipynb`
+
+For comprehensive guidance, open and run the Jupyter notebook: `notebook/tutorial.ipynb`.
 
 ## Citation
