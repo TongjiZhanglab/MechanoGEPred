@@ -1,0 +1,9 @@
+# Requirements for MechanoGEPred
+# Python 3.11 recommended
+
+scikit-learn==1.5.2
+scipy==1.14.1
+joblib==1.4.2
+numpy==2.0.2
+pandas==2.2.3
+
